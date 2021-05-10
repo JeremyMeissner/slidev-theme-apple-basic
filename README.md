@@ -1,3 +1,8 @@
+# This project has been moved to the official themes repository
+
+Please refer to the new one: [https://github.com/slidevjs/themes](https://github.com/slidevjs/themes/tree/main/packages/theme-apple-basic)
+
+<!--
 # slidev-theme-apple
 
 [![NPM version](https://img.shields.io/npm/v/slidev-theme-apple-basic?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-apple-basic)
@@ -56,6 +61,4 @@ This theme provides the following layouts:
 
 ### Photo `image`
 ![image](https://i.imgur.com/S9TQ2AZ.png)
-
-
-
+-->
