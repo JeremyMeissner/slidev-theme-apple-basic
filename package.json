@@ -1,14 +1,14 @@
 {
   "name": "slidev-theme-apple-basic",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Apple like theme for Slidev",
-  "license" : "MIT",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/JeremyMeissner/slidev-theme-apple-basic"
   },
-  "url" : "https://github.com/JeremyMeissner/slidev-theme-apple-basic/issues",
-  "email" : "jymeissner@gmail.com",
+  "url": "https://github.com/JeremyMeissner/slidev-theme-apple-basic/issues",
+  "email": "jymeissner@gmail.com",
   "keywords": [
     "slidev-theme",
     "slidev"
